@@ -15,9 +15,9 @@
         <div class="container-fluid">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="index.php" class="logo pl-14">
-                        <img src="assets/images/logo-white.png" alt="" class="logo-main">
-                        <img src="assets/images/logo.png" alt="" class="logo-fixed">
+                    <a href="index.php" class="logo md:pl-14 pl-2">
+                        <img src="assets/images/logo-white.png" alt="" class="logo-main ">
+                        <img src="assets/images/logo.png" alt="" class="logo-fixed !w-[60%]">
                     </a>
                     <div class="desk-menu"> <i class="fa fa-bars"></i>
                     </div>

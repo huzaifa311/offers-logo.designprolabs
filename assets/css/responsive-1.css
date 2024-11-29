@@ -1,6 +1,6 @@
 @media only screen and (max-width:850px) {
     .navbar-shrink .desk-menu {
-        background: #fcce01
+        display: none;
     }
 
     .col-md-7.contact-left {
@@ -39,8 +39,7 @@
     }
 
     body .desk-menu {
-        display: inline-block;
-        float: right
+        display: none;
     }
 
     body header .container-fluid {
@@ -554,11 +553,11 @@
     header .logo {
         display: inline-block;
         margin: -10px 0 0;
-        width: 50%
+        width: 40% !important;
     }
 
     header .logo img {
-        width: auto
+        width: 70%;
     }
 
     header .contlist a {
@@ -589,7 +588,7 @@
     }
 
     .about-txt-st {
-        padding: 40px 0 0
+        padding: 20px 0 0;
     }
 
     .about-txt-st p {
@@ -637,4 +636,3 @@
         font-size: 10px
     }
 }
-

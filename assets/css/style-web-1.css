@@ -132,6 +132,7 @@ label.error {
     background: linear-gradient(to right, #0a4a82 0, #610279 100%);
     background: linear-gradient(to right, #0a4a82 0, #610279 100%);
     background: linear-gradient(to right, #0a4a82 0, #610279 100%);
+    background: linear-gradient(to right, #f17226 0, #ff864c, #cd663d 100%) !important; 
 }
 .popupform h2 {
     font-size: 24px;
@@ -177,7 +178,7 @@ label.error {
 }
 .header123.navbar-shrink {
     position: fixed;
-    background: #fff !important;
+    background-color: white;
 }
 header.header123 .row {
     align-items: center;
@@ -1405,7 +1406,7 @@ section.cta_section .row {
 }
 .contact-link li a i.fa {
     font-size: 15px;
-    color: #7c38c6;
+    color: #FE5F00 !important;
 }
 .web section.inner-banner {
     background: url(../images/web-banner.jpg.jfif.jpg);
@@ -2075,7 +2076,7 @@ section.testimonials-sec ul li:after {
     -moz-osx-font-smoothing: grayscale;
     position: absolute;
     bottom: -25px;
-    color: #7c38c6;
+    color: #FE5F00 !important;
     font-size: 70px;
     opacity: 1;
     z-index: 0;
@@ -2677,10 +2678,13 @@ section.testimonials-sec ul li > div.test_item {
     align-items: end;
 }
 section.testimonials-sec ul li.google_rev:before {
-    background-image: url(../images/google.jpg.jfif.jpg);
+    /* background-image: url(../images/google.jpg.jfif.jpg); */
 }
 section.testimonials-sec ul li.trust_rev:before {
-    background-image: url(../images/trust.jpg.jfif.jpg);
+    /* background-image: url(../images/trust.jpg.jfif.jpg); */
+}
+section.testimonials-sec ul li.linkedin_rev:before {
+    /* background-image: url(../images/linkedin.png); */
 }
 .contact-hd {
     text-align: center;

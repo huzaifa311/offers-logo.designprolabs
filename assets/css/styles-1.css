@@ -24862,3 +24862,12 @@ footer .logo-div{
     border-bottom: 0.5px solid gray !important;
     padding-bottom: 1.5rem !important;
 }
+
+
+.customShadow{
+    box-shadow: 0 0 31px #ddd !important;
+}
+
+.navbar-shrink{
+    border-bottom: 1px solid gray !important;
+}
