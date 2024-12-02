@@ -775,7 +775,7 @@ include 'include/header.php';?>
     <div class="container test-upp !w-[1350px] !sm:w-[1350px]">
         <div class="row sm:mx-12">
             <div class="col-md-12 test-right">
-                <div id="testslider" class="owl-carousel">
+            <div id="testslider" class="owl-carousel">
                     <!-- Slide 1 -->
                     <div class="test-item grid grid-cols-2 gap-8">
                         <div>
@@ -788,7 +788,7 @@ include 'include/header.php';?>
                             I wasn’t sure if they’d really get what I was looking for, but they nailed it! The design is exactly what I wanted and fits my brand perfectly. The team was easy to work with and super creative. Thank you for doing such an amazing job!
                             </p>
                             <div class="flex items-center mt-6">
-                                <img class="w-12 h-12 rounded-full" src="https://placehold.co/48x48" alt="Steven D. Henry" />
+                                <img class="w-12 h-12 rounded-full" src="assets/images/barbara.webp" alt="Steven D. Henry" />
                                 <div class="ml-4">
                                     <p class="font-medium text-primary-foreground">Emily R. Johnson</p>
                                     <p class="text-sm text-muted-foreground">Creative Director, BrightVista</p>
@@ -808,7 +808,7 @@ include 'include/header.php';?>
                             I wasn’t entirely sure what I wanted at first, but their team was so patient and helpful throughout the process. Asked the right questions, shared creative ideas, and delivered a logo that’s absolutely perfect for my brand.
                             </p>
                             <div class="flex items-center mt-6">
-                                <img class="w-12 h-12 rounded-full" src="https://placehold.co/48x48" alt="Jane S. Doe" />
+                                <img class="w-12 h-12 rounded-full" src="assets/images/ashlay.webp" alt="Jane S. Doe" />
                                 <div class="ml-4">
                                     <p class="font-medium text-primary-foreground">Sarah L. Adams</p>
                                     <p class="text-sm text-muted-foreground">Green Valley Studio</p>
@@ -828,7 +828,7 @@ include 'include/header.php';?>
                             From the very first consultation, they understood exactly what I needed. They took my rough ideas and transformed them into a professional and eye-catching logo. The whole experience was seamless, and their quick turnaround time was just the cherry on top. I’m so glad I chose them for this project!
                             </p>
                             <div class="flex items-center mt-6">
-                                <img class="w-12 h-12 rounded-full" src="https://placehold.co/48x48" alt="Mark T. Lee" />
+                                <img class="w-12 h-12 rounded-full" src="assets/images/steven.webp" alt="Mark T. Lee" />
                                 <div class="ml-4">
                                     <p class="font-medium text-primary-foreground">David L. Harris, CEO</p>
                                     <p class="text-sm text-muted-foreground">Swift Tech Solutions</p>
