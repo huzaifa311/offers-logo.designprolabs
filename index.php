@@ -147,7 +147,7 @@ include 'include/header.php';?>
         class="min-w-[200px] py-2 !border-2 !border-black text-black font-medium rounded nav-link"
         id="tab-Clothing" data-bs-toggle="pill" data-bs-target="#content-Clothing" type="button" role="tab"
         aria-controls="content-Clothing" aria-selected="false">
-        Clothing and Appareal
+        Clothing and Apparel
       </button>
     </li>
     <li class="nav-item" role="presentation">
@@ -629,7 +629,7 @@ include 'include/header.php';?>
 <section class="sm:w-[85%] w-[90%] mx-auto my-20 2xl:w-[1500px] space-y-10">
   <div class="space-y-5">
     <h2 class="text-3xl mb-3 font-semibold mx-auto w-full text-center">
-    Helping Businesses Stand Out with Affordable <br> <span class="text-[#FE5F00]">Custom Logo Design</span>
+    Helping Businesses Stand Out with Affordable, <br> <span class="text-[#FE5F00]">Custom Logo Designs.</span>
     </h2>
     <p class="text-center text-wrap">
     At <span class="text-[#FE5F00] !inline-block !-mt-1">Design Pro Labs,</span> we create custom logos that perfectly reflect your brand’s identity and values. Our talented designers work with you every step of the way to deliver unique, high-quality logos at a price you can afford. Whether you’re launching a new business or rebranding, we’ll make sure your logo stands out and captures attention.
