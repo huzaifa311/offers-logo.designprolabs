@@ -25056,3 +25056,14 @@ footer .logo-div{
     overflow-x: hidden !important;
 
 }
+
+.logo-fixed .desk-menu{
+    border: 1px solid black;
+    color: black;
+}
+
+@media only screen and (max-width: 850px) {
+    .navbar-shrink .desk-menu {
+        background: #fcce01;
+    }
+}

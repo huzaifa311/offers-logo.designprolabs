@@ -182,3 +182,10 @@ document.querySelectorAll('a[href^="#"]').forEach((anchor) => {
   });
 });
 
+$('.desk-menu').click(function(){
+  $('.menu-left').toggleClass('enable');
+ });
+
+  $('.menu-lclose , .menu-lover').click(function(){
+  $('.menu-left').removeClass('enable');
+ });

@@ -1,7 +1,7 @@
 <?php $title = "Design Pro Labs | Special Offer";
 include 'include/header.php';?>
 
-<section class="sm:!h-[109vh] !h-fit w-full pt-28 relative pb-20 flex items-center">
+<section id="home" class="sm:!h-[109vh] !h-fit w-full pt-28 relative pb-20 flex items-center">
   <div class="grid md:grid-cols-5 grid-cols-1 md:gap-0 gap-10 items-center sm:w-[85%] w-[90%] mx-auto z-20  2xl:w-[1500px]">
     <div class="col-span-3 relative">
       <h1 class="sm:text-5xl text-2xl font-bold text-white md:leading-[55px]">
@@ -98,7 +98,7 @@ include 'include/header.php';?>
     class="absolute top-0 left-0 z-10 w-full md:h-[109vh] h-full object-cover"></video>
 </section>
 
-<section class="sm:w-[85%] w-[90%] mx-auto my-20 2xl:w-[1500px]">
+<section id="portfolio" class="sm:w-[85%] w-[90%] mx-auto my-20 2xl:w-[1500px]">
   <h1 class="text-center text-[46px] font-bold">Our Portfolio</h1>
   <p class="text-xl mt-1 text-center">Explore our collection of unique logo designs, sorted by category.</p>
   <ul class="flex flex-wrap gap-[10px] items-center justify-center my-4 nav nav-pills" id="portfolioTabs" role="tablist">
@@ -626,7 +626,7 @@ include 'include/header.php';?>
   </div>
 </section>
 
-<section class="sm:w-[85%] w-[90%] mx-auto my-20 2xl:w-[1500px] space-y-10">
+<section id="about" class="sm:w-[85%] w-[90%] mx-auto my-20 2xl:w-[1500px] space-y-10">
   <div class="space-y-5">
     <h2 class="text-3xl mb-3 font-semibold mx-auto w-full text-center">
     Helping Businesses Stand Out with Affordable, <br> <span class="text-[#FE5F00]">Custom Logo Designs.</span>
@@ -771,7 +771,7 @@ include 'include/header.php';?>
   </div>
 </section>
 
-<section class="our-testimonial">
+<section id="testimonial" class="our-testimonial">
     <div class="container test-upp !w-[1350px] !sm:w-[1350px]">
         <div class="row sm:mx-12">
             <div class="col-md-12 test-right">

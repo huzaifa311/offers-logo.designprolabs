@@ -30,10 +30,6 @@
                             5900 Balcones Drive #7494, Austin,TX 78731
                         </a>
                     </li>
-                    <!--   <li><a href="" title="" class="dmca-badge"> <img
-                                src="https://images.dmca.com/Badges/_dmca_premi_badge_2.png?ID=e8023e7e-ce1b-46c1-bf63-1c0fcb4ff438"
-                                alt="DMCA.com Protection Status" /></a>
-                    </li> -->
                 </ul>
             </div>
         </div>

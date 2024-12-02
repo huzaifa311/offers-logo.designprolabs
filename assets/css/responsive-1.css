@@ -39,7 +39,8 @@
     }
 
     body .desk-menu {
-        display: none;
+        display: inline-block !important;
+        float: right;
     }
 
     body header .container-fluid {
