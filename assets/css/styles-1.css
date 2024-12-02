@@ -19982,7 +19982,7 @@ body.compensate-for-scrollbar {
 
 .mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar {
     background-color: #fff;
-    background-color: rgb(124 56 198);
+    background-color: #EA5B05;
     filter: "alpha(opacity=75)";
     -ms-filter: "alpha(opacity=75)"
 }
@@ -24870,4 +24870,189 @@ footer .logo-div{
 
 .navbar-shrink{
     border-bottom: 1px solid gray !important;
+}
+
+.fa-check-circle:before {
+    content: "\f058";
+}
+
+.nav-pills .nav-link.active {
+    background-color: #FE5F00 !important;
+    color: white !important;
+    border: none !important;
+}
+
+.popupform2 ul li {
+    text-align: center;
+    position: relative;
+    width: 100%;
+    margin: 5px 0;
+    display: inline-block;
+}
+.popupform2 ul li input[type="email"],
+.popupform2 ul li input[type="text"],
+.popupform2 ul li select#packages,
+.popupform2 ul li textarea {
+    background: #fff;
+    border: none;
+    padding: 28px 17px !important;
+    width: 100%;
+    border-radius: 3px;
+    font-size: 14px;
+    color: #000;
+    box-shadow: none !important;
+    outline: black !important;
+    border: black !important;
+    height: 40px;
+    line-height: normal;
+}
+.popupform2 ul li i {
+    position: absolute;
+    top: 15px;
+    left: 14px;
+    color: red;
+    display: none;
+}
+
+.popupform2 ul li.last {
+    text-align: center;
+}
+.popupform2 ul li input[type="submit"] {
+    width: 100%;
+    color: #fff;
+    font-size: 18px;
+    border: 1px solid transparent;
+    text-transform: capitalize;
+    font-weight: 600;
+    padding: 14px 46px;
+    letter-spacing: 1px;
+    outline: 0 none;
+    cursor: pointer;
+    background: #FE6F19;
+}
+.popupform2 ul li input[type="email"]:focus,
+.popupform2 ul li input[type="text"]:focus,
+.popupform2 ul li textarea:focus {
+    border: none;
+}
+.popupform2 {
+    width: 67%;
+    border-radius: 10px;
+    overflow: visible;
+    padding-top: 0px !important;
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+    padding-bottom: 0px !important;
+    border-bottom: none;
+    background: #F8F8F8
+}
+
+
+.popupform2 h2 {
+    font-size: 24px;
+    color: #fff;
+    font-weight: 500;
+    padding-left: 0;
+    border-left: none;
+    line-height: 35px;
+    margin-top: 0;
+}
+.popupform2 h2 + p {
+    line-height: 19px;
+    font-size: 13px;
+    color: #fff;
+}
+.popupform2 .fancybox-close-small {
+    border: none;
+    background: #fff;
+    border-radius: 0;
+    text-align: center;
+    box-shadow: #00000078 0 0 10px;
+    right: 10px;
+    top: 10px;
+    overflow: visible;
+    opacity: 1;
+    width: 24px;
+    height: 22px;
+    padding: 0;
+    border-radius: 3px;
+}
+.popupform2 .fancybox-close-small:after {
+    color: #de443a;
+    font-size: 25px;
+    right: 4px;
+}
+.popupform2 ul {
+    margin: 0;
+}
+
+/* Corrected Overflow Property */
+.our-testimonial {
+    position: relative;
+    overflow-x: hidden !important;
+}
+
+/* Styles for Custom Dots */
+.image-size {
+    width: 12px !important;
+    height: 12px !important;
+    border-radius: 50% !important;
+    cursor: pointer !important;
+    border: 1px solid black;
+    background-color: gray;
+    /* Default color for inactive dots */
+    transition: background-color 0.3s ease;
+}
+
+/* Active Dot Style */
+.active-dot {
+    background-color: blue;
+    /* Active dot color */
+}
+
+/* Container for Dots */
+.arr-gap {
+    display: flex;
+    gap: 8px;
+    position: absolute;
+    bottom: 60px;
+    right: 500px;
+    z-index: 100;
+    /* Ensures dots appear above other elements */
+}
+
+/* Responsive Adjustments */
+@media (max-width: 768px) {
+    .arr-gap {
+        bottom: 10px;
+        gap: 6px;
+    }
+}
+
+.heading-banner {
+    position: absolute;
+    top: 100px;
+    left: 50%;
+    right: 50%;
+    transform: translateX(-50%);
+    height: fit-content;
+    width: fit-content;
+    min-width: 600px;
+}
+
+.our-testimonial .container {
+    max-width: 1348px;
+}
+
+
+.owl-item.active {
+    width: 1300px;
+}
+
+.test-upp {
+    background-image: url(assets/images/home/3.webp);
+    background-position: cover !important;
+    /* background-position: fixed !important; */
+    overflow-x: hidden !important;
+
 }
