@@ -4,11 +4,12 @@
             <div class="col-md-4 pack-item">
                 <div class="pack-inn">
                     <div class="pack-header">
-                        <h3 class="pack-name">Basic Logo <br> Package</h3>
+                        <h3 class="pack-name">BASIC LOGO<br> 
+                        Package</h3>
                         <p>Suitable for potential super-startups and brand revamps for companies.</p>
                     </div>
                     <div class="pack-price">
-                        <h4 class="pack-amt"><sup>$</sup>35.00<span class="old_price">$90 <sub>Only</sub></span></h4>
+                        <h4 class="pack-amt"><sup>$</sup>39.00<span class="old_price">$90 <sub>Only</sub></span></h4>
                     </div>
                     <div class="pack-list pack-ul">
                         <ul>
@@ -25,8 +26,8 @@
                     
                     <div class="pack-btn">
                         <ul>
-                            <li><a href="javascript:;" onclick="get_packagess(this.name)" name="BASIC LOGO Package - $35.00" data-fancybox=""
-                                    title="Basic Logo Package - $35.00" data-src="#popupform"
+                            <li><a href="javascript:;" onclick="get_packagess(this.name)" name="BASIC LOGO Package - $39.00" data-fancybox=""
+                                    title="Basic Logo Package - $39.00" data-src="#popupform"
                                     class="order_now various">Start
                                     Project</a></li>
                             <li><a class="live_chat chat" href="javascript:;">Live Chat</a></li>
