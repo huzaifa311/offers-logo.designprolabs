@@ -18,9 +18,9 @@
                         </a>
                     </li>
                     <li class="!mx-0 !text-left">
-                        <a class="telicon hover:text-white !mx-0 !text-left" href="mailto:info@digitalcodestudio.com">
+                        <a class="telicon hover:text-white !mx-0 !text-left" href="mailto:info@designprolabs.com">
                             <i class="fa !mr-1 fa-envelope"></i>
-                            info@digitalcodestudio.com
+                            info@designprolabs.com
                         </a>
                     </li>
                     <li class="!mx-0 !text-left">

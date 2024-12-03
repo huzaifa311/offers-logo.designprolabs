@@ -626,6 +626,27 @@ include 'include/header.php';?>
   </div>
 </section>
 
+<section class="packages-block !mt-20 !p-0" id="pricingSection">
+  <div class="sm:w-[85%] w-[90%] mx-auto 2xl:w-[1500px]">
+    <h2 class="text-3xl mb-3 font-semibold mx-auto w-full text-center">
+      Pricing Plans That Fit Every Need!
+    </h2>
+    <p class="text-center text-wrap -mt-2">
+      At <span class="text-[#FE5F00] !inline-block !-mt-1">Design Pro Labs,</span> we offer high-quality services at prices that work for everyone. Whether you're starting small or need the best, our packages are designed to match your goals and budget. Choose the plan that fits your needs and let us help you create something amazing!
+    </p>
+  </div>
+  <div class="container -mt-8">
+        <div class="row">
+            <div class="tab-content ">
+                <div id="logo" class="tab-pane fade in active show">
+                    <!-- logo_pack -->
+                    <?php include 'include/logo-pack.php';?>
+                </div>
+            </div>
+        </div>
+  </div>
+</section>
+
 <section id="about" class="sm:w-[85%] w-[90%] mx-auto my-20 2xl:w-[1500px] space-y-10">
   <div class="space-y-5">
     <h2 class="text-3xl mb-3 font-semibold mx-auto w-full text-center">
@@ -740,34 +761,6 @@ include 'include/header.php';?>
       <button class="border border-white text-white bg-transparent rounded py-[14px] px-[11px] text-[18px] font-medium text-lg chat banner-btn yb-btn various">Talk to an Expert</button>
       <button  data-src="#popupform2" name="for $244" data-fancybox="" title="Lets Get Started" class="py-[14px] px-[11px] text-[18px] font-medium text-lg bg-[#FE5F00] text-white rounded">Let's Work Together</button>
     </div>
-  </div>
-</section>
-
-<section class="packages-block !mt-20 !p-0" id="pricingSection">
-  <div class="sm:w-[85%] w-[90%] mx-auto 2xl:w-[1500px]">
-    <h2 class="text-3xl mb-3 font-semibold mx-auto w-full text-center">
-      Pricing Plans That Fit Every Need!
-    </h2>
-    <p class="text-center text-wrap -mt-2">
-      At <span class="text-[#FE5F00] !inline-block !-mt-1">Design Pro Labs,</span> we offer high-quality services at prices that work for everyone. Whether you're starting small or need the best, our packages are designed to match your goals and budget. Choose the plan that fits your needs and let us help you create something amazing!
-    </p>
-  </div>
-  <div class="container -mt-8">
-        <div class="row">
-            <div class="tab-content ">
-                <div id="logo" class="tab-pane fade in active show">
-                    <!-- logo_pack -->
-                    <?php include 'include/logo-pack.php';?>
-                </div>
-            </div>
-        </div>
-  </div>
-</section>
-
-<section class="w-full bg-[url(assets/images/cta-bg1.webp)] sm:h-72 h-96  bg-fixed flex items-center text-center text-white justify-center mt-14">
-  <div class="space-y-7">
-    <p class="font-semibold text-2xl">It’s simple to begin, and we guarantee results. Let’s create something amazing!</p>
-    <button class="py-[14px] px-4 font-medium text-xl bg-[#FE5F00] text-white rounded">Talk to an Expert</button>
   </div>
 </section>
 
