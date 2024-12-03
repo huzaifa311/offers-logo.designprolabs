@@ -25,7 +25,7 @@
                     
                     <div class="pack-btn">
                         <ul>
-                            <li><a href="javascript:;" name="Basic Logo Package - $35.00" data-fancybox=""
+                            <li><a href="javascript:;" onclick="get_packagess(this.name)" name="BASIC LOGO Package - $35.00" data-fancybox=""
                                     title="Basic Logo Package - $35.00" data-src="#popupform"
                                     class="order_now various">Start
                                     Project</a></li>

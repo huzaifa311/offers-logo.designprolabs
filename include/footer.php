@@ -91,76 +91,14 @@
                     <li>
                         <i class="fa fa-phone" aria-hidden="true"></i>
                         <select name="Interested" id="packages3">
-                            <option>Select Package</option>
-                            <option value="Basic LOGO PACKAGE - $35.00">Basic Logo Package - $35.00</option>
-                            <option value="STARTUP LOGO PACKAGE - $65.00">STARTUP LOGO Package - $65.00</option>
-                            <option value="PROFESSIONAL LOGO PACKAGE - $99.99">PROFESSIONAL LOGO Package - $99.99
-                            </option>
-                            <option value="BUSINESS LOGO PACKAGE - $149.99">BUSINESS LOGO Package - $149.99</option>
-                            <option value="LOGO & WEB PACKAGE Only $249.99">LOGO & WEB Package Only $249.99</option>
+    <option>Select Package</option>
+    <option value="BASIC LOGO Package - $35.00">Basic Logo Package - $35.00</option>
+    <option value="STARTUP LOGO Package - $65.00">Startup Logo Package - $65.00</option>
+    <option value="PROFESSIONAL LOGO Package - $99.99">Professional Logo Package - $99.99</option>
+    <option value="BUSINESS LOGO Package - $149.99">Business Logo Package - $149.99</option>
+    <option value="LOGO & WEB Package Only $249.99">Logo & Web Package Only $249.99</option>
+</select>
 
-                            <option value="Start Up Website PACKAGE - $199">Start Up Website Package - $199</option>
-                            <option value="Professional Website Package - $499">Professional Website Package - $499
-                            </option>
-                            <option value="Elite Website PACKAGE - $749">Elite Website Package - $749</option>
-                            <option value="Silver Website PACKAGE - $1599">Identity Website Package - $1599</option>
-                            <option value="Buainess Website PACKAGE - $1,999">Corporate Website Package - $1,999
-                            </option>
-                            <option value="AUTOMATED CONFERENCING PORTAL WEB - $5,000">Corporate Website Package -
-                                $5,000
-                            </option>
-
-
-                            <option value="TEASER/INTRO VIDEO PACKAGE PACKAGE - $150">TEASER/INTRO VIDEO PACKAGE PACKAGE
-                                - $150
-                            </option>
-                            <option value="STARTUP VIDEO PACKAGE - $200">STARTUP VIDEO PACKAGE -$200
-                            </option>
-
-                            <option value="CLASSIC VIDEO PACKAGE - $400">CLASSIC VIDEO PACKAGE - $400
-                            </option>
-                            <option value="PREMUIM VIDEO PACKAGE - $700">2D PREMUIM VIDEO Package - $900
-                            </option>
-                            <option value="DELUXE VIDEO PACKAGE - $900">2D DELUXE VIDEO Package - $900
-                            </option>
-
-                            <option value="Web Content BASIC PACKAGE - $129.00">Web Content Basic Package - $129.00
-                            </option>
-                            <option value="WEB CONTENT STARTER PACKAGE - $499.00">WEB CONTENT STARTER Package - $499.00
-                            </option>
-                            <option value="Web CONTENT Professional PACKAGE - $849">Web Content Professional Package -
-                                $849</option>
-                            <option value="WEB CONTENT IDENTITY PACKAGE - $1849.00">WEB CONTENT IDENTITY Package -
-                                $1849.00</option>
-                            <option value="ARTICLE WRITING PACKAGE - $149.00">ARTICLE WRITING Package - $149.00</option>
-                            <option value="BLOG WRITING Package - $129.00">BLOG WRITING Package - $129.00</option>
-
-                            <option value="BEGINNERS ILLUSTRATIVE PACKAGE - $195">BEGINNERS ILLUSTRATIVE PACKAGE - $195
-                            </option>
-                            <option value="PROFESSIONAL ILLUSTRATIVE PACKAGE- $265">PROFESSIONAL ILLUSTRATIVE PACKAGE -
-                                $265</option>
-                            <option value="3D LOGO PACKAGE - $365">3D LOGO PACKAGE- $365</option>
-                            <option value="3D ANIMATED LOGO PACKAGE - $445">3D ANIMATED LOGO PACKAGE- $445</option>
-
-
-                            <option value="Startup SEO PACKAGE - $450">Startup SEO PACKAGE - $450</option>
-                            <option value="IDENTITY SEO PACKAGE - $850">IDENTITY SEO PACKAGE - $850</option>
-                            <option value="ELITE SEO PACKAGE - $1550">ELITE SEO PACKAGE - $1550</option>
-                            <option value="PROFESSIONAL SEO Package - $2150">PROFESSIONAL SEO Package - $2150</option>
-
-                            <option value="BEGINNERS E-COMMERCE PACKAGE $999">BEGINNERS E-COMMERCE PACKAGE $999</option>
-                            <option value="CORPORATE E-COMMERCE PACKAGE $1799">CORPORATE E-COMMERCE PACKAGE $1799
-                            </option>
-                            <option value="ELITE E-COMMERCE PACKAGE $3499">ELITE E-COMMERCE PACKAGE $3499
-                            </option>
-                            <option value="AUTOMATED E-COMMERCE PACKAGE $6999">AUTOMATED E-COMMERCE PACKAGE $6999
-                            </option>
-                            <option value="CUSTOM E COMMERCE MARKETPLACE PACKAGE $4999">CUSTOM E COMMERCE MARKETPLACE
-                                PACKAGE $4999
-                            </option>
-                            <option value="CUSTOM CRM/ERP PORTAL WEBSITE PACKAGE $9999">CUSTOM CRM/ERP PORTAL WEBSITE
-                                PACKAGE $9999</option>
-                        </select>
                         <input type="hidden" id="packages-val2" class="placeholder1" name="Interest" value="">
                     </li>
                 </ul>
