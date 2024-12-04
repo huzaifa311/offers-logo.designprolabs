@@ -20,7 +20,7 @@ include 'include/header.php';?>
             <div class="h-4 w-4 rounded-full flex items-center justify-center bg-white whitespace-nowrap">
               <img src="assets/images/check.png" alt="tick" class="h-[11px] object-fit">
             </div>
-            <p class="text-white text-[15px] font-light	">4 Unique Logo Design Concepts</p>
+            <p class="text-white text-[15px] font-light	">3 Unique Logo Design Concepts</p>
           </div>
         </li>
         <li>
