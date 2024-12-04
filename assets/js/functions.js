@@ -204,6 +204,7 @@ const handleBannerForm = async (e, submitted_from) => {
     phone,
     description,
     submitted_from,
+    submitted_at: new Date().toLocaleString()
   };
 
   try {
@@ -239,6 +240,7 @@ const handlePopupRectForm = async (e, submitted_from) => {
     phone,
     description,
     submitted_from,
+    submitted_at: new Date().toLocaleString()
   };
 
   try {
@@ -277,6 +279,7 @@ const handlePopupPackage = async (e, submitted_from) => {
     description,
     submitted_from,
     selected_package,
+    submitted_at: new Date().toLocaleString()
   };
 
   try {
