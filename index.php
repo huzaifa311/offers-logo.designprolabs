@@ -800,7 +800,7 @@ include 'include/header.php';?>
       <div class="col-md-12 test-right">
         <div id="testslider" class="owl-carousel">
           <!-- Slide 1 -->
-          <div class="test-item grid grid-cols-2 gap-8">
+          <div class="test-item grid grid-cols-1 md:grid-cols-2 gap-8">
             <div>
               <img src="assets/images/7.webp" alt="test-1">
             </div>
@@ -812,7 +812,7 @@ include 'include/header.php';?>
                 attention to detail and professionalism exceeded my expectations!"
               </p>
               <div class="flex items-center mt-6">
-                <img class="w-12 h-12 rounded-full" src="assets/images/barbara.webp" alt="Steven D. Henry" />
+                <img class="w-12 h-12 rounded-full" src="assets/images/barbara.webp" alt="John R. Taylor" />
                 <div class="ml-4">
                   <p class="font-medium text-primary-foreground">John R. Taylor, CEO</p>
                   <p class="text-sm text-muted-foreground">BrightPath Solutions</p>
@@ -821,7 +821,7 @@ include 'include/header.php';?>
             </div>
           </div>
           <!-- Slide 2 -->
-          <div class="test-item grid grid-cols-2 gap-8">
+          <div class="test-item grid grid-cols-1 md:grid-cols-2 gap-8">
             <div>
               <img src="assets/images/2.webp" alt="test-2">
             </div>
@@ -833,7 +833,7 @@ include 'include/header.php';?>
                 timeless logo. Their creative approach and quick delivery were outstanding!
               </p>
               <div class="flex items-center mt-6">
-                <img class="w-12 h-12 rounded-full" src="assets/images/ashlay.webp" alt="Jane S. Doe" />
+                <img class="w-12 h-12 rounded-full" src="assets/images/ashlay.webp" alt="Emily K. Parker" />
                 <div class="ml-4">
                   <p class="font-medium text-primary-foreground">Emily K. Parker, Founder</p>
                   <p class="text-sm text-muted-foreground">Blissful Blooms</p>
@@ -842,7 +842,7 @@ include 'include/header.php';?>
             </div>
           </div>
           <!-- Slide 3 -->
-          <div class="test-item grid grid-cols-2 gap-8">
+          <div class="test-item grid grid-cols-1 md:grid-cols-2 gap-8">
             <div>
               <img src="assets/images/6.webp" alt="test-3">
             </div>
@@ -854,7 +854,7 @@ include 'include/header.php';?>
                 logo that’s both modern and memorable. Highly recommended!
               </p>
               <div class="flex items-center mt-6">
-                <img class="w-12 h-12 rounded-full" src="assets/images/steven.webp" alt="Mark T. Lee" />
+                <img class="w-12 h-12 rounded-full" src="assets/images/steven.webp" alt="Alex M. Harris" />
                 <div class="ml-4">
                   <p class="font-medium text-primary-foreground">Alex M. Harris, Owner</p>
                   <p class="text-sm text-muted-foreground">Urban Edge Marketing</p>
@@ -862,6 +862,7 @@ include 'include/header.php';?>
               </div>
             </div>
           </div>
+          <!-- Aap aur slides bhi add kar sakte hain agar chahen -->
         </div>
       </div>
     </div>

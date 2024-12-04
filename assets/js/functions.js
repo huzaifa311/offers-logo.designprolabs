@@ -5,6 +5,7 @@ $(window).on("load", function () {
 });
 
 $(document).ready(function () {
+
   // Custom Dots Functionality for #testslider
   var dotsContainer = $(".arr-gap"); // Select the custom dots container
 
@@ -62,6 +63,7 @@ $(document).ready(function () {
     autoplay: true,
     autoplayTimeout: 5000,
     autoplayHoverPause: true,
+    touchDrag: true, // Enable touch drag for mobile devices
     responsive: {
       0: {
         items: 1,
