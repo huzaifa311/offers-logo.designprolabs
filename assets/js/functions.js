@@ -219,6 +219,7 @@ const handleBannerForm = async (e, submitted_from) => {
       body: JSON.stringify(objToSend),
     });
     e.target.reset();
+    // Hide the popup
     alert("Form Submitted Successfully");
   } catch (error) {
     console.error("Error during API call:", error);
@@ -255,6 +256,7 @@ const handlePopupRectForm = async (e, submitted_from) => {
       body: JSON.stringify(objToSend),
     });
     e.target.reset();
+    $.fancybox.close();
     alert("Form Submitted Successfully");
   } catch (error) {
     console.error("Error during API call:", error);
@@ -294,6 +296,8 @@ const handlePopupPackage = async (e, submitted_from) => {
       body: JSON.stringify(objToSend),
     });
     e.target.reset();
+    // Hide the popup
+    $.fancybox.close();
     alert("Form Submitted Successfully");
   } catch (error) {
     console.error("Error during API call:", error);
