@@ -15,7 +15,7 @@
         <div class="container-fluid">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="index.php" class="logo md:pl-14 pl-2">
+                    <a href="/index" class="logo md:pl-14 pl-2">
                         <img src="assets/images/logo-white.png" alt="" class="logo-main md:ml-8">
                         <img src="assets/images/logo.png" alt="" class="logo-fixed md:ml-8">
                     </a>
