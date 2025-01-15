@@ -780,7 +780,7 @@ include 'include/header.php';?>
     <p class="text-xl">Contact our expert design team today and let’s bring your ideas to life.</p>
     <div class="flex items-center flex-wrap gap-3 justify-center mt-4">
       <div id="testimonial">
-        <a href="tel:+14372949609"
+        <a href="tel:+17379103666"
           class="border border-white text-white bg-transparent rounded py-[14px] px-[11px] text-[18px] font-medium text-lg">Call
           Now</a>
       </div>

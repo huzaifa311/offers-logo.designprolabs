@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <?php include 'include/css.php';?>
+    <?php include 'include/css.php'; ?>
     <title><?php echo isset($title) ? $title : 'Home'; ?></title>
 </head>
 
@@ -30,8 +30,8 @@
                             <li><a href="#pricingSection">Packages</a></li>
                             <li><a href="#about">About</a></li>
                             <li><a href="#testimonial">Testimonial</a></li>
-                            <li class="num"><a href="tel:+14372949609"><i class="fa fa-phone"></i>
-                            (437) 294-9609</a></li>
+                            <li class="num"><a href="tel:+17379103666"><i class="fa fa-phone"></i>
+                            +1 (737) 910-3666</a></li>
                         </ul>
                     </div>
                 </div>

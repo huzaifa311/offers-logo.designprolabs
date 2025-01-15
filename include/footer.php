@@ -12,9 +12,9 @@
                 <h3 class="uppercase text-2xl font-semibold text-white md:text-center !text-left">Reach us at</h3>
                 <ul class="contact-link !text-gray-300 space-y-2 mt-3">
                     <li class="!mx-0 !text-left">
-                        <a class="telicon hover:text-white !mx-0 !text-left" href="tel:4372949609">
+                        <a class="telicon hover:text-white !mx-0 !text-left" href="tel:+17379103666">
                             <i class="fa !mr-1 fa-phone"></i>
-                            (437) 294-9609
+                            +1 (737) 910-3666
                         </a>
                     </li>
                     <li class="!mx-0 !text-left">
@@ -144,7 +144,7 @@
                     src="https://e7.pngegg.com/pngimages/972/560/png-clipart-whatsapp-computer-icons-whatsapp-text-orange.png"
                     alt="">
                 <p class="text-[13px] text-[#848484]">Discuss with our Design Expert Today!</p>
-                <p class="font-bold text-[22px] text-[#FE6F19]">+1 (437) 294-9609</p>
+                <p class="font-bold text-[22px] text-[#FE6F19]">+1 (737) 910-3666</p>
             </div>
         </div>
         <form onSubmit="handlePopupRectForm(event, 'popupRectangularFormLogo')" class="!mt-10 !mr-2">
